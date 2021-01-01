@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562314398802",
+    "firebase_url": "https://bankq-25444.firebaseio.com",
+    "project_id": "bankq-25444",
+    "storage_bucket": "bankq-25444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562314398802:android:f17ea080f7cb96acbe638b",
+        "android_client_info": {
+          "package_name": "com.bq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562314398802-up8ejed3p2n7fqg0feh0tsmr09krv4hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-FALhUJaxd3wcitHKNin72ZCDX9ev34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562314398802-up8ejed3p2n7fqg0feh0tsmr09krv4hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
